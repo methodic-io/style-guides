@@ -9,6 +9,10 @@ http://nvie.com/posts/a-successful-git-branching-model/
 
 TODO: Write about Atomic Commits
 https://en.wikipedia.org/wiki/Atomic_commit
+https://sandofsky.com/blog/git-workflow.html
+http://www.freshconsulting.com/atomic-commits/
+http://stackoverflow.com/questions/6543913/git-commit-best-practices
+http://seesparkbox.com/foundry/atomic_commits_with_git
 
 ## Commit Messages
 
